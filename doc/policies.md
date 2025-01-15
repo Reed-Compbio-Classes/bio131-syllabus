@@ -24,7 +24,7 @@ There is no penalty for missing in-class components, but you should email me if 
 
 ## Deadline Policy
 
-The eight common assignments (which are outlined on the [types of work](assessment/components.md) page) all have deadlines. Refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287) for a detailed schedule with deadlines. 
+The eight common assignments (which are outlined on the [types of work](assessment/components.md) page) all have deadlines. Refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287) for a detailed schedule with deadlines. As described in the [Faculty Code](https://www.reed.edu/governance/faculty-code/#v.a.3.-deadlines-for-submission-of-work-by-students), no work for spring courses may be accepted after the last day of final exams for spring semester. 
 
 The purpose of these deadlines is for you to complete the assignments at a steady pace in the first 11 weeks of the semester as you learn the biology, programming, and societal aspects of the course. The lectures and activites are carefully designed so the common assignments require the skills and knowledge that you learn in the lectures. **You should submit your assignments by the posted deadlines.** You have an opportunity to revise _all_ of the common assignments, so you should submit what you have by the deadline, even if it is incomplete. My feedback will help you in your revision of the work.
 
@@ -33,6 +33,8 @@ The last two weeks of the semester are designated for choose-your-own (CYO) assi
 Please note, though, that if you routinely submit partial work by the deadline you will end up having to complete those past-due assignments at the same time as you complete the upcoming assignments. This might be very challenging, especially if you are working on multiple programming assignments at the same time. The last two weeks are _not_ enough time to complete all of the common assignments. If you are feeling overwhelmed, come talk to me to strategize a plan for successfully completing the common assignments.
 
 ### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit any of the work, but the class is not designed so you can submit _all_ the work at the very end of the semester.
+
+### Also, all work must be submitted by the last day of finals: Thursday, May 9th at 5pm
 
 ## Collaboration Policy
 

@@ -27,4 +27,4 @@ This schedule may shift and the assignment timelines are approximate; refer to t
 | Week 12 | Genome Rearrangements | Conferences |  |
 | Week 13 | Sequencing Peptides | |  |
 | | _Reading Period_ | |  |
-| | _Finals Period_ | | Optional Presentations |
+| | _Finals Period_ | Monday, May 6th from 1-4pm| Optional Presentations |

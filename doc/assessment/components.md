@@ -9,7 +9,7 @@ parent: Course Assessment
 
 There are three types of work that will be done outside of class: work on **biology and computational thinking concepts**, work on **programming skills**, and work on **biology and society**. In addition to these three themes, there is also some in-class work that will count towards your grade. All work will be assessed as "complete," "partially complete," or "missing" according to the criteria below. 
 
-Each section also includes a number of choose-your-own (CYO) assignments. You will have time to complete one or more of the CYO assignments near the end of the semester; they are explained in more detail in the [grading contract](gradingcontract.md).
+Each section also includes a number of choose-your-own (CYO) assignments. You will have time to complete one or more of the CYO assignments near the end of the semester; they are explained in more detail in the [grading contract](gradingcontract.md). All work for the course must be completed by the last day of finals (Thursday, May 9th) at 5pm. 
 
 ## 1. Biology and Computational Thinking
 
@@ -23,7 +23,7 @@ Additionally, there is an opportunity to work on a subset of the questions from 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
 | **E1: Exam 1** | You pass all 6 questions | You pass 4 or 5 of the questions| You pass fewer than 3 of the questions or you do not submit the exam |
-| **E2: Exam 2** | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
+| **E2: Exam 2** | You pass all 4 questions | You pass 2 or 3 of the questions| You pass fewer than 2 of the questions or you do not submit the exam |
 
 _Note_: the number of questions are approximate, and will be updated with the exam is finalized.
 
@@ -45,10 +45,8 @@ Each programming assignment has multiple tests that check the outputs of your pr
 | -- | -- | -- | -- |
 | **P1: Python Practice** | 11 or more out of 13 tests pass | 7-10 tests pass | Fewer than 7 tests pass or you do not submit the assignment |
 | **P2: Central Dogma** | 10 or more out of 13 tests pass | 5-9 tests pass | Fewer than 5 tests pass or you do not submit the assignment |
-| **P3: Motif Finding** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
-| **P4: Alignment** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
-
-_Note_: The number of tests are approximate, and will be updated when the assignments are finalized.
+| **P3: Motif Finding** | 21 or more out of 26 tests pass | 15-20 tests pass | Fewer than 14 tests pass or you do not submit the assignment |
+| **P4: Alignment** | 10 or more out of 14 tests pass | 7-9 tests pass | Fewer than 7 tests pass or you do not submit the assignment |
 
 _Note_: For P2, you are expected to at least read Part 2 and attempt Exercise 4, even if your assignment is complete before you reach Part 2.
 
@@ -87,13 +85,13 @@ The following table is used for both B1 and B2.
 In addition to the three themes of outside work, labor is also done in class. There are four additional pieces of work (which are marked either "completed" or "missing").
 
 - There are two conferences which are lab sections reserved for scheduling one-on-one meetings with me. We will take this time to reflect on your course goals and talk about any of the themes / assignments in the class. These must be completed (in the sense that you have two one-on-one meetings with me; if you cannot meet during the scheduled time we will reschedule).
-- During finals week, there will be a finals slot reserved for short presentations from your colleagues. You are required to attend this finals slot (and you can choose to present something - see the CYO assignment below).
+- During finals week, there will be a finals slot reserved for short presentations from your colleagues (**Monday, May 6th from 1-4pm**). You are required to attend this finals slot (and you can choose to present something - see the CYO assignment below).
 - You must complete six of the eight programming labs (L1-L8). Programming labs are an opportunity to work on shorter pieces of code that help you prepare for the programming assignments. The purpose of these labs are to prepare you for the programming assignments and give you additional insight into the lecture content. In many cases, the labs are components of the programming assignments. Lab time is also a place where the TA and I will be available to help with any programming issues you face. Note that you can submit labs that are not complete - the goal here is that you have spent an hour or so working through the material. 
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
 | Conference (x2) | You meet with me one-on-one | N/A | You don't meet with me one-on-one |
-| Finals Slot | You attend the finals slot | N/A | You don't attend the finals slot |
+| Finals Slot (**Monday, May 6th from 1-4pm**) | You attend the finals slot | N/A | You don't attend the finals slot |
 | Programming Labs | You submit 6 of the 8 programming labs (which are either complete or you worked each one for at least an hour) | N/A | You submit 5 or fewer programming labs |
 
 #### CYO Assignment
