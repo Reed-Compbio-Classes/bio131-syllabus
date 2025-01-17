@@ -18,4 +18,5 @@ bundle exec jekyll serve
 bundle lock --add-platform x86_64-linux
 ```
 
+(Note: as of 1/17/25 I installed a newer version of ruby using `homebrew`, needed to call `/usr/local/opt/ruby/bin/bundle`)
 **To get relative links:** I had to add the `jekyll-relative-links` gem to the Gemfile (this should be distributed with GitHub pages, but it didn't work with just-the-docs template).
