@@ -6,7 +6,7 @@ This is the content for Reed College's Bio131, taught by Anna Ritz. The website 
 
 ### Developer Notes
 
-**To run locally:** tested with Ruby 3.1.3 and jekyll 4.3.3. You might have to do `bundle install` or `bundle update` before serving the website locally.
+**To run locally:** tested with Ruby 3.4.3 and jekyll 4.3.3. You might have to do `bundle install` or `bundle update` before serving the website locally.
 
 ```
 bundle exec jekyll serve

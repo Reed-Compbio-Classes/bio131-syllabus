@@ -18,23 +18,7 @@ Bio131 is a better course when students have a diversity of lived experience and
 
 ## Additional Community Rules for Spring 2024
 
-_These community rules were submitted in the Starter Assignment and discussed as a class on Feb 12. They are presented in no particular order._
-
-- Respect different skillsets / experience levels
-- Be respectful of people's learning
-- Don’t be afraid to ask questions
-- Don’t dominate conversations
-- Leave tangent Q’s to the end of class
-- Avoid calling people outwardly wrong
-- Keep an open mind
-- Promote open communication
-- It’s OK to take things slow
-- It’s OK to be wrong - that’s part of the learning process
-- Let people learn (programming) at their own pace
-- Collaborate constructively
-- Be helpful, kind, and supportive of each other in lab
-- Keep the learning environment supportive
-- Make sure everyone is heard
+_These community rules will be added after the Starter Assignment is complete._
 
 ## Feedback for the Instructor
 Please give me feedback on anything in the syllabus or course, especially with respect to making Bio331 an inclusive learning environment.  Let me know if anything makes you uncomfortable in class, if you would like more instruction on a topic, or if you are experiencing a hardship outside of class.  Anonymous feedback is available on Moodle, though with a small class your comments may be identifiable.  

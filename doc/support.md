@@ -8,23 +8,17 @@ nav_order: 3
 
 Bio131 has a number of support systems to help you in this class. 
 
-## Student Hours: Tu 10-11 & Th 3-5, Biology 200B
+## Lab Time
+
+Labs are informal and are deisgned to help you gain skills you need for the programming assignments that are completed out of class. You have an assigned lab section, but you are welcome to attend both labs if you would like more help with the lab or programming assignments. You are also free to switch lab sections, but please let me know if you want to make that a permanent switch.
+
+## Student Hours: TBD
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
 
-If many students cannot make these posted times, I may shift my student hours.
-
-## Teaching Assistant (TA)
-
-Altaf Barelvi (he/him, Lewis & Clark '23) is a post-baccalaureate researcher here at Reed. Altaf will be in the lab sections to will help you with the labs and any other in-lab work. He will not grade or do other course tasks -- Altaf's only goal is to help you with your work.
-
 ## Tutoring (DoJo)
 
-Tutoring is offered by Accademic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring.  _I am currently working to find tutors who will be available for one-on-one tutoring._ Once we have tutors in place, you can sign up for individual tutoring on the [Reed tutoring app](https://iris.reed.edu/tutor/tutors/profiles).
-
-## Community Sessions
-
-If students are interested, I will reserve a room in the Biology building for evening collaborative sessions to work on the assignments together. These sessions are in lieu of drop-in tutoring this year - I encourage you to do the work together because you can help each other out (especially if you get stuck) and programming together can be fun. 
+Tutoring is offered by Academic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring.  You can sign up with others in class to book longer tutoring sessions (e.g., two hours for two students) pending the tutor's availablility. You can sign up for individual tutoring on the [Reed tutoring app](https://iris.reed.edu/tutor/tutors/profiles).
 
 ## Academic Accommodations
 
@@ -38,4 +32,4 @@ In rare cases, there may be circumstances beyond your control where you are unab
 
 ## Obligated Reporting
 
-I am happy to talk with you about anything that concerns you, but note that I (and many faculty) are obligated reporters who must report possible violations of the [Title IX](https://www.reed.edu/governance/title-ix-policy/) and [DHSM](https://www.reed.edu/guidebook/comm_pol/dhsm_policy.html) policies which govern discrimination and harassment on the basis of sex, gender, and gender identity. Confidential resources are available at Health & Counseling Services and through the SHARE program; more information is available on [this page](https://www.reed.edu/student-life/concerned/confidentiality-obligatory-reporting.html).
+I am happy to talk with you about anything that concerns you, but note that I (and many faculty) am an obligated reporter who must report possible violations of the [Title IX](https://www.reed.edu/governance/title-ix-policy/) and [DHSM](https://www.reed.edu/guidebook/comm_pol/dhsm_policy.html) policies which govern discrimination and harassment on the basis of sex, gender, and gender identity. Confidential resources are available at Health & Counseling Services and through the SHARE program; more information is available on [this page](https://www.reed.edu/student-life/concerned/confidentiality-obligatory-reporting.html).

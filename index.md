@@ -25,7 +25,7 @@ This syllabus is a public, searchable document that contains all of the details 
 - [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
 
-The final version of this syllabus will be set by Monday, January 22.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](doc/assessment/index.md) in class before the syllabus is altered.
+Any modifications to the syllabus during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](doc/assessment/index.md) in class before the syllabus is altered.
 
 ## Course details
 
@@ -33,18 +33,18 @@ The final version of this syllabus will be set by Monday, January 22.  Any modif
 
 **Lecture:** MWF 10-10:50am in Chem 301
 
-**Labs:** M 1:10-3:00 in ETC 211 and Tu 3:10-5:00 in ETC 208.
+**Labs:** M 1:10-3:00 in and Tu 1:40-3:30, both in ETC 205
 
 **Materials:**
 - Textbook: Bioinformatics Algorithms by Pavel Pevzner and Philip Compeau. The chapters we will cover in class are [freely available online](https://www.bioinformaticsalgorithms.org/read-the-book). The textbook is also available at the library and in the bookstore.
-- Book: you will choose between one of these two books within the first two weeks of class (both are available at the bookstore):
+- We will read excerpts of these three books (PDFs will be provided, books also available i the library):
   - [The Social Life of DNA: Race, Reparations, and Reconciliation After the Genome](http://www.alondranelson.com/books/the-social-life-of-dna-race-reparations-and-reconciliation-after-the-genome) by Alondra Nelson
   - [Native American DNA: Tribal Belonging and the False Promise of Genetic Science](https://www.upress.umn.edu/book-division/books/native-american-dna) by Kim TallBear
+  - [The Immortal Life of Henrietta Lacks](https://rebeccaskloot.com/the-immortal-life/about-the-book/) by Rebecca Skloot
   
 ## Communication & Technology
 
-**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287).** 
-
+**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=5950).**
 - Check your email every day to stay updated.
 - We will use GitHub and GitHub Codespaces for the programming assignments (you will be taught how to use it).
 - We will use Moodle for some assignments (e.g., the starter assignment and the book reflections).
