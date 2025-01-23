@@ -37,7 +37,7 @@ Any modifications to the syllabus during the semester will be noted in the [chan
 
 **Materials:**
 - Textbook: Bioinformatics Algorithms by Pavel Pevzner and Philip Compeau. The chapters we will cover in class are [freely available online](https://www.bioinformaticsalgorithms.org/read-the-book). The textbook is also available at the library and in the bookstore.
-- We will read excerpts of these three books (PDFs will be provided, books also available i the library):
+- We will read excerpts of these three books (PDFs will be provided, books also available in the library):
   - [The Social Life of DNA: Race, Reparations, and Reconciliation After the Genome](http://www.alondranelson.com/books/the-social-life-of-dna-race-reparations-and-reconciliation-after-the-genome) by Alondra Nelson
   - [Native American DNA: Tribal Belonging and the False Promise of Genetic Science](https://www.upress.umn.edu/book-division/books/native-american-dna) by Kim TallBear
   - [The Immortal Life of Henrietta Lacks](https://rebeccaskloot.com/the-immortal-life/about-the-book/) by Rebecca Skloot
