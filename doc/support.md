@@ -12,7 +12,7 @@ Bio131 has a number of support systems to help you in this class.
 
 Labs are informal and are deisgned to help you gain skills you need for the programming assignments that are completed out of class. You have an assigned lab section, but you are welcome to attend both labs if you would like more help with the lab or programming assignments. You are also free to switch lab sections, but please let me know if you want to make that a permanent switch.
 
-## Student Hours: TBD
+## Student Hours (in Biology 200B): Tuesdays 10:30-11:30am; Fridays 1-2:30pm
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
 

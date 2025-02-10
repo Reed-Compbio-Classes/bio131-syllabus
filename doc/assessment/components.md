@@ -39,7 +39,7 @@ Each programming assignment has multiple tests that check the outputs of your pr
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| **P1: Python Practice** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
+| **P1: Python Practice** | 11 or more out of 13 tests pass | 7-10 tests pass | Fewer than 7 tests pass or you do not submit the assignment |
 | **P2: Central Dogma** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
 | **P3: Motif Finding** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
 | **P4: Alignment** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
