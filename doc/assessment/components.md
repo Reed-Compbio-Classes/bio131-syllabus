@@ -24,7 +24,7 @@ Additionally, there is an opportunity to work on a subset of the questions from 
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| **E1: Exam 1** | You pass all X questions | You pass X-X questions| You pass fewer than X of the questions or you do not submit the exam |
+| **E1: Exam 1** | You pass all 6 questions | You pass 4-5 questions| You pass fewer than 4 of the questions or you do not submit the exam |
 | **E2: Exam 2** | You pass all X questions | You pass X-X questions| You pass fewer than X of the questions or you do not submit the exam |
 
 _Note_: the number of questions will be updated when the exams are finalized.
@@ -40,8 +40,8 @@ Each programming assignment has multiple tests that check the outputs of your pr
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
 | **P1: Python Practice** | 11 or more out of 13 tests pass | 7-10 tests pass | Fewer than 7 tests pass or you do not submit the assignment |
-| **P2: Central Dogma** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
-| **P3: Motif Finding** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
+| **P2: Central Dogma**  (16 tests total; 3 are optional) | 11 or more out of 13 tests pass | 6-10 tests pass | Fewer than 6 tests pass or you do not submit the assignment |
+| **P3: Motif Finding** | 21 or more out of 26 tests pass | 15-20 tests pass | Fewer than 15 tests pass or you do not submit the assignment |
 | **P4: Alignment** | X or more out of X tests pass | X-X tests pass | Fewer than X tests pass or you do not submit the assignment |
 
 _Note_: The number of tests will be updated when the assignments are finalized.
