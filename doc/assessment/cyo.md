@@ -11,11 +11,11 @@ Choose-Your-Own (CYO) Assignments are optional assignments that can be done to i
 
 ### CYO Assessment & Deadlines
 
-Before you begin a CYO, you will submit a form that describes the assignment, your criteria for success, and any internal deadlines you plan to have. For the CYOs with written deliverables, you may also choose to give a short presentation in class on the topic. See Moodle for more details. 
+Before you begin a CYO, you will submit a form that describes the assignment, your criteria for success, and any internal deadlines you plan to have. For the CYOs with written deliverables, you may instead choose to give a short presentation in class on the topic during the final presentation slot. See Moodle for more details. 
 
-CYO assigments are assessed as "complete" or "not complete" - there is no partially complete option, and they are not missing since they are all optional. 
+CYO assignments are assessed as "complete" or "not complete" - there is no partially complete option, and they are not missing since they are all optional. 
 
-As stated in the [deadline policy](../policies.md#deadline-policy), all CYO Assignments must be submitted by the last day of finals at 5pm. If you want a chance to revise your CYO assignmets, you must submit them earlier; talk with Anna to determine internal deadlines.
+As stated in the [deadline policy](../policies.md#deadline-policy), all CYO Assignments must be submitted by the last day of finals at 5pm. If you want a chance to revise your CYO assignments, you must submit them earlier; talk with Anna to determine internal deadlines.
 
 ### 1. Biology and Computational Thinking -- Example CYOs
 

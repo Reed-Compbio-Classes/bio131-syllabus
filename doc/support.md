@@ -12,13 +12,15 @@ Bio131 has a number of support systems to help you in this class.
 
 Labs are informal and are deisgned to help you gain skills you need for the programming assignments that are completed out of class. You have an assigned lab section, but you are welcome to attend both labs if you would like more help with the lab or programming assignments. You are also free to switch lab sections, but please let me know if you want to make that a permanent switch.
 
-## Student Hours (in Biology 200B): Tuesdays 10:30-11:30am; Fridays 1-2:30pm
+## Student Hours (in Biology 200B): Mondays 3-4pm; Wednesdays 11-12pm (tentative)
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
 
 ## Tutoring (DoJo)
 
-Tutoring is offered by Academic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring.  You can sign up with others in class to book longer tutoring sessions (e.g., two hours for two students) pending the tutor's availablility. You can sign up for individual tutoring on the [Reed tutoring app](https://iris.reed.edu/tutor/tutors/profiles).
+Tutoring is offered by Academic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring.  
+
+As of January 16, I am working with Academic Support to set up BIOL131 tutors. Once they are established, you can sign up as an individual or with others in class to book longer tutoring sessions (e.g., two hours for two students) pending the tutor's availability. You can sign up for individual tutoring on the [Reed tutoring app](https://iris.reed.edu/tutor/tutors/profiles).
 
 ## Academic Accommodations
 

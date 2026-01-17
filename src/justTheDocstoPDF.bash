@@ -12,7 +12,7 @@ cd /tmp/syllabus
 # sed(2) deletes from each line the " character and everything that follows, leaving the clean URL
 # tail deletes the first line, which contains a lonely <nav> tag
 
-urlstr=$(curl -s "https://reed-compbio-classes.github.io/bio131-S24-syllabus/" | grep -o -E '<nav .*</nav>' | sed "s/href=\"\//href=\"\nhttps:\/\/reed-compbio-classes.github.io\//g" | sed "s/\".*//g" | tail +2)
+urlstr=$(curl -s "https://reed-compbio-classes.github.io/bio131-syllabus/" | grep -o -E '<nav .*</nav>' | sed "s/href=\"\//href=\"\nhttps:\/\/reed-compbio-classes.github.io\//g" | sed "s/\".*//g" | tail +2)
 
 # convert a long string into an array
 urls=($urlstr)

@@ -19,7 +19,7 @@ This syllabus is a public, searchable document that contains all of the details 
 - [Goals](doc/goals.md): the course goals and learning objectives.
 - [Support](doc/support.md): the support systems offered in the course.
 - [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
-- [Schedule](doc/schedule.md): an overview of the course topics and assignemnts.
+- [Schedule](doc/schedule.md): an overview of the course topics and assignments.
 - [Assessment](doc/assessment/index.md): a detailed explanation of the contract grading in the course.
 - [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
@@ -33,7 +33,7 @@ Any modifications to the syllabus during the semester will be noted in the [chan
 
 **Lecture:** MWF 10-10:50am in Chem 301
 
-**Labs:** M 1:10-3:00 in and Tu 1:40-3:30, both in ETC 205
+**Labs:** M 1:10-3:00 in ETC 208 and Tu 9-10:50 in ETC208
 
 **Materials:**
 - Textbook: Bioinformatics Algorithms by Pavel Pevzner and Philip Compeau. The chapters we will cover in class are [freely available online](https://www.bioinformaticsalgorithms.org/read-the-book). The textbook is also available at the library and in the bookstore.
@@ -44,7 +44,7 @@ Any modifications to the syllabus during the semester will be noted in the [chan
   
 ## Communication & Technology
 
-**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=5950).**
+**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=6637).**
 - Check your email every day to stay updated.
 - We will use GitHub and GitHub Codespaces for the programming assignments (you will be taught how to use it).
 - We will use Moodle for some assignments (e.g., the starter assignment and the book reflections).

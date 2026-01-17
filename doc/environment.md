@@ -16,14 +16,9 @@ Bio131 is a combination of biology and computer science, and each field has been
 
 Bio131 is a better course when students have a diversity of lived experience and previous knowledge.
 
-## Additional Community Rules for Spring 2024
+## Additional Community Rules for Spring 2026
 
-- Avoid using jargon or specific words we haven’t learned in class.
-- Don’t assume that everyone comes in with the same level of experience/prior knowledge.
-- Be patient with each other.
-- Give space for everyone to contribute (both in the lecture setting and in small groups).
-- Have a class rule or structure to make sure everyone has a chance to share in discussions if they want.
-- If you have a question, ask it.
+_This will be completed early in the semester._
 
 ## Feedback for the Instructor
 Please give me feedback on anything in the syllabus or course, especially with respect to making Bio331 an inclusive learning environment.  Let me know if anything makes you uncomfortable in class, if you would like more instruction on a topic, or if you are experiencing a hardship outside of class.  Anonymous feedback is available on Moodle, though with a small class your comments may be identifiable.  

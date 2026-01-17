@@ -23,5 +23,5 @@ This schedule may shift and the assignment timelines are approximate; refer to t
 | Week 10 | Sequence Alignment II | B3 Discussion| P4: Alignment |
 | Week 11 | Genome Assembly | L8: While Loops | E2: Exam 2 |
 | Week 12 | Genome Rearrangements | CYO Work Time |  |
-| Week 13 | CYO Presentations | CYO Work Time |  |
-| _Finals Period_ | No Final Exam | | |
+| Week 13 | One-on-One Meetings | CYO Work Time |  |
+| _Finals Period_ | CYO Presentations | | |

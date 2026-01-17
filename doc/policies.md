@@ -16,7 +16,7 @@ The purpose of the in-class components is to learn the material during lecture t
 - You should attend and fully participate in the three book discussions during the scheduled lab section.
 - You should complete the scheduled labs, and I strongly encourage you to attend the labs to complete them during your lab section. If you decide to complete them on your own, you must talk with me about your plan first.
 
-Additionally, there may be one-on-one check-ins about how the class is going, which will be scheduled during lab or lecture time.
+Additionally, there will be one-on-one check-ins about how the class is going, which will be scheduled during lab or lecture time.
 
 There is no penalty for missing in-class components, but you should email me if something is preventing you from attending more than one class/lab. Please see "Illness and Exceptional Circumstances" on the [support page](support.md). If you miss multiple classes, I may reach out to make sure you are OK. Communication is key.
 
@@ -26,15 +26,13 @@ There is no penalty for missing in-class components, but you should email me if 
 
 The nine common assignments (which are outlined on the [types of work](assessment/components.md) page) all have deadlines. Refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287) for a detailed schedule with deadlines. As described in the [Faculty Code](https://www.reed.edu/governance/faculty-code/#v.a.3.-deadlines-for-submission-of-work-by-students), no work for spring courses may be accepted after the last day of final exams for spring semester. 
 
-The purpose of these deadlines is for you to complete the assignments at a steady pace in the first 11 weeks of the semester as you learn the biology, programming, and societal aspects of the course. The lectures and activites are carefully designed so the common assignments require the skills and knowledge that you learn in the lectures. **You should submit your assignments by the posted deadlines.** You have an opportunity to revise _all_ of the common assignments, so you should submit what you have by the deadline, even if it is incomplete. My feedback will help you in your revision of the work.
+The purpose of these deadlines is for you to complete the assignments at a steady pace in the first 11 weeks of the semester as you learn the biology, programming, and societal aspects of the course. The lectures and activities are carefully designed so the common assignments require the skills and knowledge that you learn in the lectures. **You must submit your assignments by the posted deadlines, even if they are incomplete.** You have an opportunity to revise _all_ of the common assignments, so you should submit what you have by the deadline, even if it is incomplete. My feedback will help you in your revision of the work.
 
 The last two weeks of the semester are designated for choose-your-own (CYO) assignments. However, you may decide to use this time to complete any common assignments that are missing or partially completed. Refer to the [grading contract](assessment/gradingcontract.md) for more information. Please note, though, that the last two weeks are _not_ enough time to complete all of the common assignments, and it may be challenging to complete multiple assignments at the same time if you routinely submit partial work throughout the semester. 
 
 If you are feeling overwhelmed, come talk to me to strategize a plan for successfully completing the common assignments.
 
 ### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit any of the work, but the class is not designed so you can submit _all_ the work at the very end of the semester.
-
-### Also, all work must be submitted by the last day of finals at 5pm. 
 
 ## Collaboration Policy
 
@@ -45,7 +43,7 @@ Computational biology is inherently a collaborative field, and there are many op
 3. You can **always** sign up for one-on-one tutoring to get assistance with the programming concepts outside of class.
 3. You can **always** look up how to use specific data types, syntax, and built-in functions we have learned in Python.
 
-The two take-hom **exams** are designed to be done over the weekend (out Friday, Due Monday). A subset of questions will be available to work on in an (optional) in-class component that Friday. You can work with other students on the in-class component, but you should do the remainder of the exam on your own. Follow the instructions provided with the exam about what resources you can use during the exam.
+The two take-home **exams** are designed to be done over the weekend (out Friday, Due Monday). A subset of questions will be available to work on in an (optional) in-class component that Friday. You can work with other students on the in-class component, but you should do the remainder of the exam on your own. Follow the instructions provided with the exam about what resources you can use during the exam.
 
 Working together is encouraged for the **programming assignments.** You can talk to other students about the homework as much as you like, but you must write your own programs (even if you do it side-by-side). You need to "cite" who you work with - see below for more information.
 

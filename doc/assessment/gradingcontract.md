@@ -7,17 +7,13 @@ parent: Course Assessment
 
 ### Grading Contract
 
-The nine common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B3) are designed so that if students complete them (along with 6 of the 8 programming labs), they will earn a B. If you earn a B in the course, you will have learned _a lot_ about computational biology. You are expected to submit the work you have done by each deadline (you will be able to resubmit all work - see the [deadline policy](../policies.md#deadline-policy). **All work for the course must be completed by the last day of finals 5pm.**
+The nine common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B3) are designed so that if students complete them (along with 6 of the 8 programming labs), they will earn a B. If you earn a B in the course, you will have learned _a lot_ about computational biology. You must the work you have done by each deadline (you will be able to resubmit all work - see the [deadline policy](../policies.md#deadline-policy). **All work for the course must be completed by the last day of finals 5pm.**
 
-Note that, according to the [schedule](../schedule.md), the common assignments will be completed by the beginning of Week 12. For the last two weeks, students can choose to revisit the common assignments they wish to improve upon or complete one or more of the [choose-your-own (CYO) assignments](cyo.md).
-
-**There is no final exam for this class.**
+Note that, according to the [schedule](../schedule.md), the common assignments will be completed by the beginning of Week 12. For the last two weeks, students can choose to revisit the common assignments they wish to improve upon or complete one or more of the [choose-your-own (CYO) assignments](cyo.md). The final exam slot provides an optional opportunity for student presentations based on completed CYOs.
 
 ## Grading Contract Table
 
-The table below is based off of requirements for a B. To earn higher than a B, you will complete additional CYO assignments (along with completing more of the labs). If you partially complete assignments, miss assignments, or miss extra labs, that reduces your grade. 
-
-Remember, you will have time near the end of the semester to revisit any of the work.
+The table below is based off of requirements for a B. To earn higher than a B, you will complete additional CYO assignments (along with completing more of the labs). If you partially complete assignments, miss assignments, or miss extra labs, that reduces your grade. Remember, you will have time near the end of the semester to revisit any of the work.
 
 | Earned Grade | Assignment Requirements | #  Missed Assignments Allowed (9 total) | # Missed Labs Allowed (8 total) |
 | --- | --- | --- | --- | 
@@ -38,11 +34,7 @@ Remember, you will have time near the end of the semester to revisit any of the 
 - If you partially complete 3 assignments but have no missing assignments or missing labs, you will earn a C- (even though you are not missing work). 
 
 ## Assessment Communication
-You will communicate your course plans at multiple points throughout the semester.
-
-- Starter Assignment: in the first week, you will share your reasons for taking the course, what success in the course means to you, and your plans for achieving that success.
-- At least once in the semester, you will meet with me one-on-one during the lab slot to reflect on your course goals and talk about any of the themes / assignments in the class.
-- You are welcome to talk with me any time about your progress in the course and how it aligns with your goals. Communication is key.
+We will discuss your course plans at multiple points throughout the semester. In the first week, you will share your reasons for taking the course, what success in the course means to you, and your plans for achieving that success. There will be time after each book discussion for one-on-one meetings about your progress in the class. In the last week of the semester, we will have a one-on-one meeting to discuss how your performance has aligned with your initial goals and strategize how to best use reading week and finals period to achieve success. You are welcome to talk with me any time about your progress in the course and how it aligns with your goals. Communication is key.
 
 ## Illness and Exceptional Circumstances
 

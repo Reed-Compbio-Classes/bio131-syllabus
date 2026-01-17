@@ -18,6 +18,6 @@ Specifically, by the end of this course:
 
 ![goals.png](../figs/goals.png)
 
-Bio131 satisfies the Group III distribution requirements, and you can find the relevant group distribution learning outcomes in the [course catalog description](https://catalog.reed.edu/preview_course_nopop.php?catoid=9&coid=7742).  Note that Bio131 does **not** satisfy Group III's "Data Collection and Analysis" requirement.
+Bio131 satisfies the Group III distribution requirements, and you can find the relevant group distribution learning outcomes in the [course catalog description](https://catalog.reed.edu/preview_course_nopop.php?catoid=42&coid=51954).  Note that Bio131 does **not** satisfy Group III's "Data Collection and Analysis" requirement.
 
-Bio131 is designed for you to pursue your own interests within the scope of these learning objectives. We will use contract grading, which aims to reduce student competition, encourage risk-taking, and support intrinsic motivation. More information about this grading assessment is provided on the [assessment](assessment/index.md) page.
+Bio131 is designed for you to pursue your own interests within the scope of these learning objectives. We will use a form of contract grading, which aims to reduce student competition, encourage risk-taking, and support intrinsic motivation. More information about this grading assessment is provided on the [assessment](assessment/index.md) page.
