@@ -68,14 +68,39 @@ Remember, this type of collaboration is expected and encouraged! People who work
 
 ## Generative AI Policy
 
-Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts).
+Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts). Generative AI is becoming ubiquitous for some, while others are keeping away from it. This policy is intended to **be flexible with generative AI usage while ensuring that you demonstrate the learning goals.**
 
-The fact is, generative AI could do a pretty darn good job with some of the **programming assignments**. But the assignments are designed for _you_ to learn how to program in Python, and how to apply those skills to biological questions. Some of the things that are easy for generative AI to do -- for example, write some starter code for an assignment -- are extremely useful exercises for people who are learning to program. The [course goals](goals.md) of this class include learning how to implement computational biology solutions - if you use generative AI to do that, you are not demonstrating that you can do this on your own.
+### Generative AI Policy for Exams
 
 The same goes for using generative AI for solving **exam questions**. Generative AI might get some questions correct, but _you_ would not be demonstrating that you have learned the content. Don't worry - you will have opportunities to revise exams in order to demonstrate your learning.
 
+### Generative AI Policy for Programming Assignments
+
+The fact is, generative AI could do a pretty darn good job with some of the **programming assignments**. But the assignments are designed for _you_ to learn how to program in Python, and how to apply those skills to biological questions. Some of the things that are easy for generative AI to do -- for example, write some starter code for an assignment -- are extremely useful exercises for people who are learning to program. The [course goals](goals.md) of this class include learning how to implement computational biology solutions - if you use generative AI to do that, you are not demonstrating that you can do this on your own. Therefore, **GitHub Copilot or other code-suggestion AIs are not permitted.**
+
+However, many people are using generative AI to look up general information (like using Google's AI-generated answers from Gemini or ChatGPT), and this can be very helpful for people new to programming. In general, permitted uses of AI involve asking for clarification about the assignment, asking about specific syntax or phrasing, and helping correct errors that prevent the code from running. Uses that are not permitted involve asking about how to solve a problem or generate code to copy/paste into your own assignment. A few other uses might be allowed, but you must ask me first. The following list is from the [Can I use AI Glossary](https://sites.google.com/view/aiassignments/glossary?authuser=0#h.wm5uilg7z8qi:
+
+**Permitted Uses of AI**:
+- Problem Understanding: The AI helps students clarify the nature and specifications of their programming assignment by breaking down the problem and identifying the main tasks needed to solve it.
+- Technical Guidance: The AI answers specific technical queries the students might have about programming concepts, language syntax, or data structures.
+- Code Syntax Assistance: The AI helps students understand and correct syntax errors they may encounter while writing code (you type a line and ask "why does this give me an error?").
+
+**Uses of AI that Require Permission:**
+- Debugging Assistance: The AI helps identify and resolve bugs in the code (you paste entire functions or blocks of code and ask "why doesn't this produce what I want?")
+- Code Optimization: The AI suggests ways to enhance the efficiency of the code, either by reducing time or space complexity. This will rarely be necessary.
+- Code Review: The AI reviews the completed code, giving feedback on its readability, maintainability, and overall quality. This is not essential to the course learning goals, so ask me first.
+
+**Not Permitted Uses of AI:**
+- Solution Planning: The AI assists in creating a blueprint for the code, including the design of the functions, classes, or modules.
+- Algorithm Suggestion: The AI proposes suitable algorithms or data structures that could be used to solve the problem effectively.
+- Test Case Generation: The AI generates test cases to ensure that the code meets the problem's specifications and handles edge cases properly.
+
+**You should never copy any code from generative AI into your assignment (though you may type it yourself), and you should not use any "code suggestion" features.**
+
+### Generative AI Policy for Writing Reflections
+
 Finally, generative AI will not do much good **writing reflections** based on the books, since the goal of the reflections is not necessarily the quality of the writing but a preparation for the discussion with your colleagues.
 
-The goal of this class is to never make you feel like you just have to get the answer, no matter where it comes from. If you are feeling like this, then come talk with me and/or the tutors and we will strategize a way to help you learn the content without that pressure.
+**In conclusion,** the goal of this class is to never make you feel like you just _have_ to get the answer, no matter where it comes from. If you are feeling like this, then come talk with me and/or the tutors and we will strategize a way to help you learn the content without that pressure.
 
-### The Main Takeaway: Generative AI should not be used in this class. But you should never feel the need to use it anyway.
+### The Main Takeaway: Generative AI can be used as a general resource for programming assignments only. Ask me if you have any questions about your use of generative AI.
