@@ -72,7 +72,7 @@ Generative AI is technology that is trained to generate text, images, or code fr
 
 ### Generative AI Policy for Exams
 
-The same goes for using generative AI for solving **exam questions**. Generative AI might get some questions correct, but _you_ would not be demonstrating that you have learned the content. Don't worry - you will have opportunities to revise exams in order to demonstrate your learning.
+Generative AI might get some exam questions correct, but _you_ would not be demonstrating that you have learned the content. **Therefore, generative AI is not allowed on exams.** Don't worry - you will have opportunities to revise exams in order to demonstrate your learning.
 
 ### Generative AI Policy for Programming Assignments
 
@@ -86,7 +86,7 @@ However, many people are using generative AI to look up general information (lik
 - Code Syntax Assistance: The AI helps students understand and correct syntax errors they may encounter while writing code (you type a line and ask "why does this give me an error?").
 
 **Uses of AI that Require Permission:**
-- Debugging Assistance: The AI helps identify and resolve bugs in the code (you paste entire functions or blocks of code and ask "why doesn't this produce what I want?")
+- Debugging Assistance: The AI helps identify and resolve bugs in the code (you paste entire functions or blocks of code and ask "why doesn't this produce what I want?").
 - Code Optimization: The AI suggests ways to enhance the efficiency of the code, either by reducing time or space complexity. This will rarely be necessary.
 - Code Review: The AI reviews the completed code, giving feedback on its readability, maintainability, and overall quality. This is not essential to the course learning goals, so ask me first.
 
@@ -99,8 +99,8 @@ However, many people are using generative AI to look up general information (lik
 
 ### Generative AI Policy for Writing Reflections
 
-Finally, generative AI will not do much good **writing reflections** based on the books, since the goal of the reflections is not necessarily the quality of the writing but a preparation for the discussion with your colleagues.
+Finally, generative AI will not do much good writing reflections based on the books, since the goal of the reflections is not necessarily the quality of the writing but a preparation for the discussion with your colleagues. So **generative AI is not allowed for the writing reflections.**
 
 **In conclusion,** the goal of this class is to never make you feel like you just _have_ to get the answer, no matter where it comes from. If you are feeling like this, then come talk with me and/or the tutors and we will strategize a way to help you learn the content without that pressure.
 
-### The Main Takeaway: Generative AI can be used as a general resource for programming assignments only. Ask me if you have any questions about your use of generative AI.
+### The Main Takeaway: Generative AI can be used as a general resource for programming assignments only; it is not allowed for the exams or writing reflections. Ask me if you have any questions about your use of generative AI.
