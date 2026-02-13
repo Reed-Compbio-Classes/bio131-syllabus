@@ -51,17 +51,17 @@ _Note_: The number of tests will be updated when the assignments are finalized.
 
 We will read about and discuss aspects of molecular and cell biology and its influence on society and culture (and vice versa). You will read excerpts from three books and discuss these readings with your lab section. 
 
-The work for this theme consists of three written reflections (B1-B3) followed by three discussions during lab. The purpose of the written reflection is to take some time to think about the book and prepare for the in-lab discussion. 
+The work for this theme consists of three written reflections (B1-B3) followed by three discussions during class (lecture time). The purpose of the written reflection is to take some time to think about the book and prepare for the in-lab discussion. 
 - If you do not submit the reflection before the discussion, you will need to incorporate the summary of the discussion in your reflection for it to be considered complete. 
-- If you cannot make the in-lab discussion (for example due to illness or other circumstances), you **must** let Anna know before lab. In that case, you will write a longer-form reflection that includes the prompt from the in-lab portion. 
+- If you cannot make the in-class discussion (for example due to illness or other circumstances), you **must** let Anna know before class. In that case, you will write a longer-form reflection that may include an additional prompt based on the in-class discussion. 
 
 The following table is used for all book reflections:
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| Reflection & Discussion | You write 250 or more words in response to the writing prompt before lab and you attend the discussion | You attend the discussion but you do not submit a reflection | You do not attend the discussion and do not submit a reflection |
-| Discussion only (if you did not submit the reflection before lab) | You attend the discussion and write 750 or more words that summarizes the discussion and provides your personal reflection to the writing prompt | You attend the discussion but you do not submit a reflection | You do not attend the discussion and do not submit a reflection |
-| Reflection only (you must notify Anna if you miss the discussion) | You write 1,000 or more words in response to the writing prompt and any other in-lab prompts | You write a reflection but it is less than 1,000 words | You do not attend the discussion and do not submit a reflection  |
+| Reflection & Discussion | You write 250 or more words in response to the writing prompt before class and you attend the discussion | You attend the discussion but you do not submit a reflection | You do not attend the discussion and do not submit a reflection |
+| Discussion only (if you did not submit the reflection before class) | You attend the discussion and write 750 or more words that summarizes the discussion and provides your personal reflection to the writing prompt | You attend the discussion but you do not submit a reflection | You do not attend the discussion and do not submit a reflection |
+| Reflection only (you must notify Anna if you miss the discussion) | You write 1,000 or more words in response to the writing prompt and any other in-class prompts | You write a reflection but it is less than 1,000 words | You do not attend the discussion and do not submit a reflection  |
 
 ## 4.Programming Labs
 

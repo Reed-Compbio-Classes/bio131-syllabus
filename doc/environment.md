@@ -18,7 +18,13 @@ Bio131 is a better course when students have a diversity of lived experience and
 
 ## Additional Community Rules for Spring 2026
 
-_This will be completed early in the semester._
+- Hold space for questions. Allow them to be heard even if it's an "easy question."
+- Have mutual respect for one another, including for other people's perspectives and experiences.
+- Assume the best of everyone's intentions.
+- Feel free to (respectfully) correct someone if they make incorrect assumptions/statements about a sensitive topic. We are all here to learn.
+- Balance discussion so the same people aren't always speaking and the same people aren't always quiet. Reflect on what your level of engagement is and adjust accordingly. (Also known as "step up/step back").
+
+We will use [The Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) to create a trusted environment during in-class discussions. 
 
 ## Feedback for the Instructor
 Please give me feedback on anything in the syllabus or course, especially with respect to making Bio331 an inclusive learning environment.  Let me know if anything makes you uncomfortable in class, if you would like more instruction on a topic, or if you are experiencing a hardship outside of class.  Anonymous feedback is available on Moodle, though with a small class your comments may be identifiable.  
