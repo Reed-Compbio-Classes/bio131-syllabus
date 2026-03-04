@@ -8,19 +8,23 @@ nav_order: 10
 
 The purpose of a change log is to document all major changes to some code/website/etc. All major changes will be documented in this change log. If you want to see _all_ the changes made to this website since it was first created, take a look at the [GitHub commit log](https://github.com/Reed-Compbio-Classes/bio131-syllabus/commits/main/).
 
-### 2025-02-12
+### 2026-03-04 
+
+Updated assessment criteria for Exam 1 and assessment criteria for P2. Also updated the dates below to reflect 2026, not 2025. ha!
+
+### 2026-02-12
 
 Updated the timing of book discussions to be Monday in class. Updated the Community Rules with the suggestions from the starter assignment.
 
-### 2025-02-09
+### 2026-02-09
 
 Added an extra (Thurs) student hour.
 
-### 2025-01-30
+### 2026-01-30
 
 Updated P1 criteria for Complete, Partial, and Missing.
 
-### 2025-01-25
+### 2026-01-25
 
 Updated Generative AI policy. 
 
